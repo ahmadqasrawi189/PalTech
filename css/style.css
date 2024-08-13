@@ -1,0 +1,13 @@
+.allcollection {
+    margin-top: 80px;
+}
+#selected {
+    border: 1px solid gray;
+    height: 200px;
+}
+#total {
+    border: 1px solid gray;
+    height: 35px;
+    width: 200px;
+    border-radius: 5px;
+}
